@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only for pre-Compose surfaces (window background, launcher icon). Screens use theme tokens. -->
+<resources>
+    <color name="window_background">#FF0A0A0B</color>
+    <color name="ic_launcher_background">#FF141416</color>
+    <color name="ic_launcher_gold">#FFD4AF37</color>
+</resources>
