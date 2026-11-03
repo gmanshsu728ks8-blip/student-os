@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brand_tagline">Your complete study management system</string>
+
+    <string name="welcome_title">Welcome to Student-OS</string>
+    <string name="welcome_body">This is the foundation build. We are building an organized study space for Thanaweya Amma students, step by step.</string>
+    <string name="today_label">Today</string>
+
+    <string name="stats_title">Study statistics</string>
+    <string name="stats_subtitle">No data has been recorded yet, so the values below are true zeros.</string>
+    <string name="stat_study_time">Study time today</string>
+    <string name="stat_study_time_unit">min</string>
+    <string name="stat_tasks">Tasks completed</string>
+    <string name="stat_tasks_unit">tasks</string>
+    <string name="stat_mistakes">Mistakes to review</string>
+    <string name="stat_mistakes_unit">mistakes</string>
+    <string name="stat_streak">Study streak</string>
+    <string name="stat_streak_unit">days</string>
+
+    <string name="planned_title">Upcoming features</string>
+    <string name="planned_subtitle">These sections are not implemented yet and contain no real data.</string>
+    <string name="badge_not_implemented">Not implemented yet</string>
+
+    <string name="feature_subjects_title">Subjects</string>
+    <string name="feature_subjects_desc">Organize your subjects and lessons and track progress in each one.</string>
+    <string name="feature_planner_title">Study planner</string>
+    <string name="feature_planner_desc">Schedule study days and spread lessons up to your exam date.</string>
+    <string name="feature_timer_title">Study timer</string>
+    <string name="feature_timer_desc">Log focus sessions and measure your real study time.</string>
+    <string name="feature_tasks_title">Daily tasks</string>
+    <string name="feature_tasks_desc">A daily task list tied to your study plan.</string>
+    <string name="feature_mistakes_title">Mistake notebook</string>
+    <string name="feature_mistakes_desc">Collect, analyze and regularly review your mistakes.</string>
+    <string name="feature_exams_title">Exams and analytics</string>
+    <string name="feature_exams_desc">Prepare for exams and analyze your performance over time.</string>
+</resources>

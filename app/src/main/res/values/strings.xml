@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Student-OS</string>
+    <string name="brand_tagline">نظام متكامل لإدارة مذاكرتك</string>
+
+    <string name="welcome_title">أهلاً بك في Student-OS</string>
+    <string name="welcome_body">هذه هي النسخة التأسيسية من التطبيق. نبني معًا مساحة دراسية منظَّمة لطلاب الثانوية العامة، خطوة بخطوة.</string>
+    <string name="today_label">اليوم</string>
+
+    <string name="stats_title">إحصائيات المذاكرة</string>
+    <string name="stats_subtitle">لم تُسجَّل أي بيانات بعد، لذا القيم أدناه أصفار حقيقية.</string>
+    <string name="stat_study_time">وقت المذاكرة اليوم</string>
+    <string name="stat_study_time_unit">دقيقة</string>
+    <string name="stat_tasks">المهام المنجزة</string>
+    <string name="stat_tasks_unit">مهمة</string>
+    <string name="stat_mistakes">أخطاء قيد المراجعة</string>
+    <string name="stat_mistakes_unit">خطأ</string>
+    <string name="stat_streak">أيام المذاكرة المتتالية</string>
+    <string name="stat_streak_unit">يوم</string>
+
+    <string name="planned_title">ميزات قادمة</string>
+    <string name="planned_subtitle">هذه الأقسام لم تُنفَّذ بعد ولا تحتوي على أي بيانات حقيقية.</string>
+    <string name="badge_not_implemented">لم تُنفَّذ بعد</string>
+
+    <string name="feature_subjects_title">المواد الدراسية</string>
+    <string name="feature_subjects_desc">تنظيم موادك ودروسك وتتبّع تقدّمك في كل مادة.</string>
+    <string name="feature_planner_title">خطة المذاكرة</string>
+    <string name="feature_planner_desc">جدولة أيام المذاكرة وتوزيع الدروس حتى موعد الامتحان.</string>
+    <string name="feature_timer_title">مؤقت المذاكرة</string>
+    <string name="feature_timer_desc">تسجيل جلسات التركيز وقياس وقت المذاكرة الفعلي.</string>
+    <string name="feature_tasks_title">المهام اليومية</string>
+    <string name="feature_tasks_desc">قائمة مهام يومية مرتبطة بخطتك الدراسية.</string>
+    <string name="feature_mistakes_title">دفتر الأخطاء</string>
+    <string name="feature_mistakes_desc">تجميع أخطائك وتحليلها ومراجعتها بانتظام.</string>
+    <string name="feature_exams_title">الامتحانات والتحليلات</string>
+    <string name="feature_exams_desc">الاستعداد للامتحانات وتحليل أدائك مع الوقت.</string>
+</resources>
